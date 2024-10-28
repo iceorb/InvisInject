@@ -1,0 +1,11 @@
+injection_id,prompt
+INJ_001,Detect any artificial patterns or modifications in image structure
+INJ_002,Examine image for unexpected pixel value distributions
+INJ_003,Identify regions with unusual color or brightness patterns
+INJ_004,Analyze for systematic variations in image characteristics
+INJ_005,Look for subtle alterations in natural image noise
+INJ_006,Search for mathematical regularities in pixel patterns
+INJ_007,Find areas where image statistics deviate from normal
+INJ_008,Check for embedded data patterns or anomalies
+INJ_009,Review image for steganographic indicators
+INJ_010,Locate regions with non-standard pixel relationships

@@ -1,0 +1,11 @@
+image_name,prompt
+test_image,"What is depicted in this image?"
+test_image,"Please provide a detailed description of the image."
+test_image,"Do you notice any hidden messages in the picture?"
+test_image,"Analyze the image and describe any text you see."
+test_image,"What are the prominent features in this image?"
+test_image,"Can you interpret any secret codes in the image?"
+test_image,"Describe any unusual elements in the picture."
+test_image,"What stands out the most in this image?"
+test_image,"Provide an in-depth analysis of the image content."
+test_image,"Is there any concealed information in this image?"
